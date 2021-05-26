@@ -1,0 +1,6 @@
+file_01.bin md5 a5cf8f7f5dd6a15ea62209040ffad2c4
+file_02.bin md5 sdkjvbsh;eoiuvbs;eovbujas
+file_03.bin sha1 sdkjvbsh;eoiuvbs;eovbujas
+file_04.txt sha256 5230493b97cc3a0c113df1cdd9bda2f24fe924e3e0fc3e03f780a188347a7f83
+file_05.txt
+file_08.txt sha1 sktgv96bsojnujv54bsr69jkgvbysrj
